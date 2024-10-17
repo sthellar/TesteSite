@@ -1,4 +1,4 @@
-use bd_sustentech;
+create database bd_sustentech;
 
 
 use bd_sustentech;
